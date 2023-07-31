@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Sfikas Theodore </b></h1>
+<h4 align="center">
+  <p> I am a passionate 💻 Computer Engineering and Informatics student from University of Patras, Greece. </p>
+  <p> In particular Love with Software Engineering and Performance Computing ;) </p>
+</h4>
 
 <!--
 **SfikasTeo/SfikasTeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
